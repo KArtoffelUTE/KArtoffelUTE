@@ -44,14 +44,6 @@ I enjoy building real‑world projects, experimenting with modern frameworks, an
 
 ---
 
-## 📌 Projects
-- **Quack** — a modern social platform backend (mentions, hashtags, notifications, saved posts)  
-- **Wahl‑O‑Mat Clone** — political quiz backend with clean API design  
-- **API & Backend Experiments** — FastAPI, DRF, authentication, architecture patterns
-- **SortSmart** - [Sort your trash smart](https://sortsmart.de)  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
