@@ -59,8 +59,6 @@ I enjoy building real‑world projects, experimenting with modern frameworks, an
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=KArtoffelUTE&theme=tokyonight" />
 </p>
 
-<p align="center">I work on many private projects as well.</p>
-
 ---
 
 ## 📫 Contact
