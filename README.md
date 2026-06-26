@@ -1,57 +1,72 @@
-# 👋 Hi, I'm KartoffelUTE
+<!-- Banner -->
+<div align="center">
+  <img width="1536" height="789" alt="KArtoffelUTE_banner" src="https://github.com/user-attachments/assets/b8a38827-fcc4-4715-b546-dc738292aa33" />
+</div>
 
-I'm a backend‑focused developer from Germany, currently a high‑school student working on real‑world software projects and modern API design.  
-I enjoy building scalable systems, clean architectures, and platforms that feel great to use.
+<h3 align="center">Backend Developer • Python • Django REST Framework • AI</h3>
 
----
-
-## 🚀 What I'm working on
-
-- **Quack** — a full social media platform with mentions, hashtags, notifications, saved posts, and a modern backend architecture  
-- **Backend engineering** — Django REST Framework, Python, authentication, and scalable API design
-
----
-
-## 🧠 Skills & Technologies
-
-- **Languages:** Python, C++ (Arduino)
-- **Backend:** Django, Django REST Framework  
-- **APIs:** REST, **[GraphQL](ca://s?q=Tell_me_more_about_GraphQL)**  
-- **Tools:** Git, GitHub, Docker, CI/CD  
-- **Other:** Security research, system design fundamentals
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00AEEF&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%2F+Django+REST+Framework;API+Design+%26+Architecture;Always+learning+new+things" />
+</p>
 
 ---
 
-## 🎯 Goals
-
-- Build Quack into a fully‑featured social platform  
-- Improve my backend engineering and API design skills  
-- Participate in **Jugend forscht** with software/security projects  
-- Learn more about scalable architectures and modern backend patterns
+## 🚀 About Me
+I'm a backend‑focused developer from Germany, passionate about **APIs**, **scalable systems**, and **clean backend architecture**.  
+I enjoy building real‑world projects, experimenting with modern frameworks, and learning new technologies.
 
 ---
 
-## 📈 Current Projects
+## 🧠 Tech Stack
 
-- **Quack Backend** — saved posts, notifications, ManyToMany relations, serializers, and clean API structure  
-- **Wahl‑O‑Mat** — Markdown‑to‑Word export, template rendering, and backend improvements
+### 🔹 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?logo=godotengine&logoColor=white)
+
+### 🔹 Backend & APIs
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-ff1709?logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+
+### 🔹 Data & AI
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+
+### 🔹 Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?logo=pycharm&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ---
 
-## 🎮 Interests
+## 📌 Projects
+- **Quack** — a modern social platform backend (mentions, hashtags, notifications, saved posts)  
+- **Wahl‑O‑Mat Clone** — political quiz backend with clean API design  
+- **API & Backend Experiments** — FastAPI, DRF, authentication, architecture patterns
+- **SortSmart** - [Sort your trash smart](https://sortsmart.de)  
 
-- Software development  
-- Security & research  
-- Minecraft modding  
-- Soulslike games (Elden Ring)  
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KArtoffelUTE&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=KArtoffelUTE&theme=tokyonight" />
+</p>
+
+<p align="center">I work on many private projects as well.</p>
 
 ---
 
 ## 📫 Contact
-
-You can reach me via GitHub or through my project repositories.
+**GitHub:** https://github.com/KArtoffelUTE  
+**Discord:** @kartoffelute
 
 ---
 
-## ⭐ Fun fact  
-I love building things from scratch — especially platforms and backend systems.
+<p align="center">Always building something new 🚀</p>
