@@ -48,15 +48,15 @@ I enjoy building real‑world projects, experimenting with modern frameworks, an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KArtoffelUTE&show_icons=true&theme=tokyonight" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=KArtoffelUTE&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Contact
-**GitHub:** https://github.com/KArtoffelUTE  
-**Discord:** @kartoffelute
+**GitHub:** <https://github.com/KArtoffelUTE>  
+**Discord:** `@kartoffelute`  
+**E-Mail:** <j.gend@proton.me>
 
 ---
 
